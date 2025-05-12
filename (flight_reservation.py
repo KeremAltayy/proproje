@@ -79,7 +79,7 @@ sehirler = ["İstanbul", "Ankara", "İzmir", "Antalya", "Adana", "Bursa", "Trabz
     "Lizbon", "Atina", "Budapeşte"]
 
 ucuslar: List[Ucus] = []
-baslangic_tarihi = datetime(2025, 6, 1)
+baslangic_tarihi = datetime(2025, 5, 12)
 
 for _ in range(100):
     kalkis = random.choice(sehirler)
