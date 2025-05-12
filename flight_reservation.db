@@ -1,0 +1,4 @@
+INSERT INTO flights (flight_id, origin, destination, total_seats, booked_seats)
+VALUES ('TK101', 'Istanbul', 'Ankara', 100, 0),
+       ('TK102', 'Istanbul', 'Izmir', 100, 0),
+       ('TK103', 'Istanbul', 'Antalya', 100, 0);
